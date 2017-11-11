@@ -1,0 +1,14 @@
+/Objects/
+/Listings/
+*.uvopt
+*.uvproj
+*.Tomcat
+*.LST
+*.OBJ
+*.hex
+*.lnp
+*.M51
+*.plg
+*.bak
+*.lst
+*.htm
